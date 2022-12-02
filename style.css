@@ -1,0 +1,28 @@
+.main{
+    display: flex;
+}
+
+.card{
+    margin: auto;
+}
+
+.card-body1{
+    text-align: center;
+    background-color: aqua;
+    margin-bottom: 10px;
+}
+
+.drop-btn{
+    display: flex;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    justify-content: space-around;
+    background-color: lightblue;
+    padding-top: 10px;
+    padding-bottom: 10px
+}
+
+.btn-live{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
